@@ -1,0 +1,1 @@
+# monorepo-typescript-linting-example
