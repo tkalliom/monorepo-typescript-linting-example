@@ -1,0 +1,9 @@
+{
+  "name": "operation-a",
+  "version": "1.0.0",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.40",
+    "typescript": "^3.7.5"
+  }
+}

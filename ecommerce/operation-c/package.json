@@ -1,0 +1,13 @@
+{
+  "name": "operation-c",
+  "version": "0.0.1",
+  "license": "MIT",
+  "dependencies": {
+    "ecommerce-shared": "file:../../layers/ecommerce-shared"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.46",
+    "@types/node": "^13.9.0",
+    "typescript": "^3.8.3"
+  }
+}

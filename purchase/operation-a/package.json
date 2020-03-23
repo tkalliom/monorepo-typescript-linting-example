@@ -1,0 +1,14 @@
+{
+  "name": "operation-a",
+  "version": "0.0.1",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.612.0",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.40",
+    "@types/node": "^13.9.0",
+    "typescript": "^3.7.5"
+  }
+}
